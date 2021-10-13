@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=a81&height=250&section=header&text=Moomsoo&fontSize=70&animation=twinkling&fontColor=fff&fontAlign=75&fontAlignY=40)\
+![header](https://capsule-render.vercel.app/api?type=waving&color=a81&height=250&section=header&text=Moomsoo&fontSize=70&animation=twinkling&fontColor=fff&fontAlign=75&fontAlignY=40)
 
 <p align="center">
   👋&nbsp; Hi there! I'm <b>junior full stack developer</b><br/>
