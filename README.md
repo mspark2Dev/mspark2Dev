@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
 </p>
 
-<p align="center"> & </p>
+<h3 align="center"> & </h3>
 <p align="center"> I've used this technique at least once </p>
 
 <p align="center">
