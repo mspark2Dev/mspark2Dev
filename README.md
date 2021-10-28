@@ -30,3 +30,6 @@
 <p align="center">
 <img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=devprkms">
 </p>
+
+<h3 align="center">🙍‍♂️ Another Account 🙍‍♂️</h3>
+<p align="center"><a target="_blank" href="https://github.com/devprkms">devprkms Github</a></p>
